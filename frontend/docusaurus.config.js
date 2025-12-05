@@ -23,7 +23,7 @@ const config = {
   organizationName: 'your-username', // Usually your GitHub org/user name.
   projectName: 'ai-textbook', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn', // Phase 1: content still being created
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
