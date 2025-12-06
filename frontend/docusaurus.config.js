@@ -64,19 +64,19 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'image/imag.jpg',
       navbar: {
-        title: 'Physical AI & Humanoid Robotics',
-        logo: {
-          alt: 'AI Robotics Logo',
-          src: 'img/logo.svg',
-        },
+        title: '🤖 Physical AI & Humanoid Robotics',
+        // logo: {
+        //   alt: 'AI Robotics Logo',
+        //   src: 'images/imag.jpg',
+        // },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Curriculum',
+            label: 'Book',
           },
           {
             href: 'https://github.com/your-username/ai-textbook',
@@ -85,46 +85,55 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Curriculum',
-            items: [
-              {
-                label: 'Introduction to Embodied AI',
-                to: '/docs/intro',
-              },
-              {
-                label: 'Perception & Sensing',
-                to: '/docs/perception',
-              },
-              {
-                label: 'Control & Actuation',
-                to: '/docs/control',
-              },
-              {
-                label: 'Multi-Robot Integration',
-                to: '/docs/integration',
-              },
-            ],
-          },
-          {
-            title: 'Resources',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/your-username/ai-textbook',
-              },
-              {
-                label: 'Hardware Requirements',
-                to: '/docs/hardware',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Physical AI Textbook. Built with Docusaurus.`,
-      },
+      // footer: {
+      //   style: 'dark',
+      //   links: [
+      //     {
+      //       title: 'Course',
+      //       items: [
+      //         {
+      //           label: 'Introduction',
+      //           to: '/ai-textbook/docs/intro',
+      //         },
+      //         {
+      //           label: 'Week 1: Embodied AI',
+      //           to: '/ai-textbook/docs/introduction/week-1-embodied-ai',
+      //         },
+      //         {
+      //           label: 'All Modules',
+      //           to: '/ai-textbook/docs',
+      //         },
+      //       ],
+      //     },
+      //     {
+      //       title: 'Resources',
+      //       items: [
+      //         {
+      //           label: 'GitHub Repository',
+      //           href: 'https://github.com/your-username/ai-textbook',
+      //         },
+      //         {
+      //           label: 'Docusaurus',
+      //           href: 'https://docusaurus.io',
+      //         },
+      //       ],
+      //     },
+      //     {
+      //       title: 'About',
+      //       items: [
+      //         {
+      //           label: 'Documentation',
+      //           to: '/ai-textbook/docs/intro',
+      //         },
+      //         {
+      //           label: 'Contact',
+      //           href: 'https://github.com/your-username/ai-textbook/issues',
+      //         },
+      //       ],
+      //     },
+      //   ],
+      //   copyright: `Copyright © ${new Date().getFullYear()} Physical AI & Humanoid Robotics. Built with Docusaurus.`,
+      // },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
