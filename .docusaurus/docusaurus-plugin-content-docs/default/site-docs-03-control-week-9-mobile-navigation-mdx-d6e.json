@@ -1,0 +1,27 @@
+{
+  "id": "control/week-9-mobile-navigation",
+  "title": "Week 9: Mobile Robot Navigation",
+  "description": "Putting It All Together",
+  "source": "@site/docs/03-control/week-9-mobile-navigation.mdx",
+  "sourceDirName": "03-control",
+  "slug": "/control/week-9-mobile-navigation",
+  "permalink": "/ai-textbook/docs/control/week-9-mobile-navigation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-textbook/tree/main/docs/03-control/week-9-mobile-navigation.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 8: Trajectory Planning & Collision Avoidance",
+    "permalink": "/ai-textbook/docs/control/week-8-trajectory-planning"
+  },
+  "next": {
+    "title": "Week 10: Learning from Data & Imitation Learning",
+    "permalink": "/ai-textbook/docs/integration/week-10-learning"
+  }
+}

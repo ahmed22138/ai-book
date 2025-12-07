@@ -1,0 +1,27 @@
+{
+  "id": "introduction/week-2-robot-anatomy",
+  "title": "Week 2: Robot Anatomy & Sensors",
+  "description": "Introduction to Robot Hardware",
+  "source": "@site/docs/01-introduction/week-2-robot-anatomy.mdx",
+  "sourceDirName": "01-introduction",
+  "slug": "/introduction/week-2-robot-anatomy",
+  "permalink": "/ai-textbook/docs/introduction/week-2-robot-anatomy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-textbook/tree/main/docs/01-introduction/week-2-robot-anatomy.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 1: Embodied AI Fundamentals",
+    "permalink": "/ai-textbook/docs/introduction/week-1-embodied-ai"
+  },
+  "next": {
+    "title": "Week 3: Control Systems Basics",
+    "permalink": "/ai-textbook/docs/introduction/week-3-control-systems"
+  }
+}

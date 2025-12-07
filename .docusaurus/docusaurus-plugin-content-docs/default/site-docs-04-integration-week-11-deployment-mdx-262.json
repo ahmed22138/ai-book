@@ -1,0 +1,27 @@
+{
+  "id": "integration/week-11-deployment",
+  "title": "Week 11: System Integration & Real-World Deployment",
+  "description": "From Simulation to Reality",
+  "source": "@site/docs/04-integration/week-11-deployment.mdx",
+  "sourceDirName": "04-integration",
+  "slug": "/integration/week-11-deployment",
+  "permalink": "/ai-textbook/docs/integration/week-11-deployment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-textbook/tree/main/docs/04-integration/week-11-deployment.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 10: Learning from Data & Imitation Learning",
+    "permalink": "/ai-textbook/docs/integration/week-10-learning"
+  },
+  "next": {
+    "title": "Week 12: Capstone Project & Future Directions",
+    "permalink": "/ai-textbook/docs/integration/week-12-capstone"
+  }
+}

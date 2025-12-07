@@ -1,0 +1,27 @@
+{
+  "id": "control/week-8-trajectory-planning",
+  "title": "Week 8: Trajectory Planning & Collision Avoidance",
+  "description": "Beyond Path to Trajectory",
+  "source": "@site/docs/03-control/week-8-trajectory-planning.mdx",
+  "sourceDirName": "03-control",
+  "slug": "/control/week-8-trajectory-planning",
+  "permalink": "/ai-textbook/docs/control/week-8-trajectory-planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-textbook/tree/main/docs/03-control/week-8-trajectory-planning.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 7: Path Planning",
+    "permalink": "/ai-textbook/docs/control/week-7-path-planning"
+  },
+  "next": {
+    "title": "Week 9: Mobile Robot Navigation",
+    "permalink": "/ai-textbook/docs/control/week-9-mobile-navigation"
+  }
+}

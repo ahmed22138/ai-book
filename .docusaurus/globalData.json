@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/ai-textbook/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/ai-textbook/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "control/week-7-path-planning",
+              "path": "/ai-textbook/docs/control/week-7-path-planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "control/week-8-trajectory-planning",
+              "path": "/ai-textbook/docs/control/week-8-trajectory-planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "control/week-9-mobile-navigation",
+              "path": "/ai-textbook/docs/control/week-9-mobile-navigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integration/week-10-learning",
+              "path": "/ai-textbook/docs/integration/week-10-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integration/week-11-deployment",
+              "path": "/ai-textbook/docs/integration/week-11-deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integration/week-12-capstone",
+              "path": "/ai-textbook/docs/integration/week-12-capstone",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/ai-textbook/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/week-1-embodied-ai",
+              "path": "/ai-textbook/docs/introduction/week-1-embodied-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/week-2-robot-anatomy",
+              "path": "/ai-textbook/docs/introduction/week-2-robot-anatomy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/week-3-control-systems",
+              "path": "/ai-textbook/docs/introduction/week-3-control-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "perception/week-4-computer-vision",
+              "path": "/ai-textbook/docs/perception/week-4-computer-vision",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "perception/week-5-3d-perception",
+              "path": "/ai-textbook/docs/perception/week-5-3d-perception",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "perception/week-6-slam",
+              "path": "/ai-textbook/docs/perception/week-6-slam",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/ai-textbook/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

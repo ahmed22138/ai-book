@@ -1,0 +1,27 @@
+{
+  "id": "introduction/week-1-embodied-ai",
+  "title": "Week 1: Embodied AI Fundamentals",
+  "description": "Introduction to Embodied Intelligence",
+  "source": "@site/docs/01-introduction/week-1-embodied-ai.mdx",
+  "sourceDirName": "01-introduction",
+  "slug": "/introduction/week-1-embodied-ai",
+  "permalink": "/ai-textbook/docs/introduction/week-1-embodied-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-textbook/tree/main/docs/01-introduction/week-1-embodied-ai.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome to Physical AI & Humanoid Robotics",
+    "permalink": "/ai-textbook/docs/intro"
+  },
+  "next": {
+    "title": "Week 2: Robot Anatomy & Sensors",
+    "permalink": "/ai-textbook/docs/introduction/week-2-robot-anatomy"
+  }
+}

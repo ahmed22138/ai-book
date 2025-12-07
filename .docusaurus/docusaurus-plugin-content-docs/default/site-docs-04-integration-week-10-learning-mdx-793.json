@@ -1,0 +1,27 @@
+{
+  "id": "integration/week-10-learning",
+  "title": "Week 10: Learning from Data & Imitation Learning",
+  "description": "From Programming to Learning",
+  "source": "@site/docs/04-integration/week-10-learning.mdx",
+  "sourceDirName": "04-integration",
+  "slug": "/integration/week-10-learning",
+  "permalink": "/ai-textbook/docs/integration/week-10-learning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-textbook/tree/main/docs/04-integration/week-10-learning.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 9: Mobile Robot Navigation",
+    "permalink": "/ai-textbook/docs/control/week-9-mobile-navigation"
+  },
+  "next": {
+    "title": "Week 11: System Integration & Real-World Deployment",
+    "permalink": "/ai-textbook/docs/integration/week-11-deployment"
+  }
+}

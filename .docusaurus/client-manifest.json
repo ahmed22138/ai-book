@@ -1,0 +1,295 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "10456783": [
+      791
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "07229642": [
+      175
+    ],
+    "0e384e19": [
+      976
+    ],
+    "26227b66": [
+      988
+    ],
+    "5e95c892": [
+      647
+    ],
+    "7071f949": [
+      488
+    ],
+    "793a3031": [
+      98
+    ],
+    "8b7418c3": [
+      585
+    ],
+    "8d618688": [
+      186
+    ],
+    "a7bd4aaa": [
+      717
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "b7d1a47c": [
+      614
+    ],
+    "cb4627d8": [
+      999
+    ],
+    "d1061619": [
+      799
+    ],
+    "d63c7e36": [
+      432
+    ],
+    "d6ee0418": [
+      68
+    ],
+    "f3a7f9e2": [
+      104
+    ],
+    "styles": [
+      48,
+      354,
+      401,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.017652c6.js",
+          "hash": "b965320fc95e5255",
+          "publicPath": "/ai-textbook/assets/js/a94703ab.017652c6.js"
+        }
+      ]
+    },
+    "68": {
+      "js": [
+        {
+          "file": "assets/js/d6ee0418.67585b83.js",
+          "hash": "b0a57ab21bd68a6f",
+          "publicPath": "/ai-textbook/assets/js/d6ee0418.67585b83.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/793a3031.ad1a1806.js",
+          "hash": "f28132abd0d47b91",
+          "publicPath": "/ai-textbook/assets/js/793a3031.ad1a1806.js"
+        }
+      ]
+    },
+    "104": {
+      "js": [
+        {
+          "file": "assets/js/f3a7f9e2.ebffadb0.js",
+          "hash": "9f9883a0ca83181f",
+          "publicPath": "/ai-textbook/assets/js/f3a7f9e2.ebffadb0.js"
+        }
+      ]
+    },
+    "175": {
+      "js": [
+        {
+          "file": "assets/js/07229642.2a7be37e.js",
+          "hash": "f89d074c57b52ac6",
+          "publicPath": "/ai-textbook/assets/js/07229642.2a7be37e.js"
+        }
+      ]
+    },
+    "186": {
+      "js": [
+        {
+          "file": "assets/js/8d618688.78c765ac.js",
+          "hash": "b4e57575085cbda7",
+          "publicPath": "/ai-textbook/assets/js/8d618688.78c765ac.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.919300a7.js",
+          "hash": "fa5a780a9b5fff0d",
+          "publicPath": "/ai-textbook/assets/js/237.919300a7.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.c4bfb141.js",
+          "hash": "a67c4eb86a1caab5",
+          "publicPath": "/ai-textbook/assets/js/runtime~main.c4bfb141.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.5c3e36ce.js",
+          "hash": "4b577603758f8fe2",
+          "publicPath": "/ai-textbook/assets/js/17896441.5c3e36ce.js"
+        }
+      ]
+    },
+    "432": {
+      "js": [
+        {
+          "file": "assets/js/d63c7e36.7fe9dcf0.js",
+          "hash": "33d400a41167a9e9",
+          "publicPath": "/ai-textbook/assets/js/d63c7e36.7fe9dcf0.js"
+        }
+      ]
+    },
+    "488": {
+      "js": [
+        {
+          "file": "assets/js/7071f949.5cb77085.js",
+          "hash": "77b12647f3969093",
+          "publicPath": "/ai-textbook/assets/js/7071f949.5cb77085.js"
+        }
+      ]
+    },
+    "585": {
+      "js": [
+        {
+          "file": "assets/js/8b7418c3.032f50e5.js",
+          "hash": "cdadbc2607bb3061",
+          "publicPath": "/ai-textbook/assets/js/8b7418c3.032f50e5.js"
+        }
+      ]
+    },
+    "614": {
+      "js": [
+        {
+          "file": "assets/js/b7d1a47c.c321c90f.js",
+          "hash": "23a437045557110f",
+          "publicPath": "/ai-textbook/assets/js/b7d1a47c.c321c90f.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.c4344896.js",
+          "hash": "16fbbaa8f480aa4f",
+          "publicPath": "/ai-textbook/assets/js/5e95c892.c4344896.js"
+        }
+      ]
+    },
+    "717": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.82d113b8.js",
+          "hash": "20a68625041162da",
+          "publicPath": "/ai-textbook/assets/js/a7bd4aaa.82d113b8.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.8c9c9581.js",
+          "hash": "b275d6c0937ae380",
+          "publicPath": "/ai-textbook/assets/js/aba21aa0.8c9c9581.js"
+        }
+      ]
+    },
+    "791": {
+      "js": [
+        {
+          "file": "assets/js/10456783.954c2b59.js",
+          "hash": "32d11d19420dd1c5",
+          "publicPath": "/ai-textbook/assets/js/10456783.954c2b59.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.60625c01.js",
+          "hash": "01434a4505f10b37",
+          "publicPath": "/ai-textbook/assets/js/main.60625c01.js"
+        }
+      ]
+    },
+    "799": {
+      "js": [
+        {
+          "file": "assets/js/d1061619.f9ad4280.js",
+          "hash": "ce864d8ad15dbc19",
+          "publicPath": "/ai-textbook/assets/js/d1061619.f9ad4280.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.549fc3ba.css",
+          "hash": "255b6a32bd841bf0",
+          "publicPath": "/ai-textbook/assets/css/styles.549fc3ba.css"
+        }
+      ]
+    },
+    "976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.bd7f47d6.js",
+          "hash": "e873a61a16b4b8de",
+          "publicPath": "/ai-textbook/assets/js/0e384e19.bd7f47d6.js"
+        }
+      ]
+    },
+    "988": {
+      "js": [
+        {
+          "file": "assets/js/26227b66.b63de08e.js",
+          "hash": "9ae42013c6e2cfb5",
+          "publicPath": "/ai-textbook/assets/js/26227b66.b63de08e.js"
+        }
+      ]
+    },
+    "999": {
+      "js": [
+        {
+          "file": "assets/js/cb4627d8.de902ef4.js",
+          "hash": "9d45f09e892741fb",
+          "publicPath": "/ai-textbook/assets/js/cb4627d8.de902ef4.js"
+        }
+      ]
+    }
+  }
+}

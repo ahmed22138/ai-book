@@ -1,0 +1,13 @@
+{
+  "type": "mdx",
+  "permalink": "/ai-textbook/",
+  "source": "@site/src/pages/index.mdx",
+  "title": "Physical AI & Humanoid Robotics",
+  "description": "AI-Native Interactive Textbook Landing Page",
+  "frontMatter": {
+    "title": "Physical AI & Humanoid Robotics",
+    "description": "AI-Native Interactive Textbook Landing Page",
+    "slug": "/"
+  },
+  "unlisted": false
+}

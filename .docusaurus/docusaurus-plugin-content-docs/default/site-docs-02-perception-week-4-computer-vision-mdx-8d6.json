@@ -1,0 +1,27 @@
+{
+  "id": "perception/week-4-computer-vision",
+  "title": "Week 4: Computer Vision Fundamentals",
+  "description": "Introduction to Robot Vision",
+  "source": "@site/docs/02-perception/week-4-computer-vision.mdx",
+  "sourceDirName": "02-perception",
+  "slug": "/perception/week-4-computer-vision",
+  "permalink": "/ai-textbook/docs/perception/week-4-computer-vision",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-textbook/tree/main/docs/02-perception/week-4-computer-vision.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 3: Control Systems Basics",
+    "permalink": "/ai-textbook/docs/introduction/week-3-control-systems"
+  },
+  "next": {
+    "title": "Week 5: 3D Perception & Point Clouds",
+    "permalink": "/ai-textbook/docs/perception/week-5-3d-perception"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "perception/week-6-slam",
+  "title": "Week 6: SLAM & Localization",
+  "description": "The Navigation Challenge",
+  "source": "@site/docs/02-perception/week-6-slam.mdx",
+  "sourceDirName": "02-perception",
+  "slug": "/perception/week-6-slam",
+  "permalink": "/ai-textbook/docs/perception/week-6-slam",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-textbook/tree/main/docs/02-perception/week-6-slam.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 5: 3D Perception & Point Clouds",
+    "permalink": "/ai-textbook/docs/perception/week-5-3d-perception"
+  },
+  "next": {
+    "title": "Week 7: Path Planning",
+    "permalink": "/ai-textbook/docs/control/week-7-path-planning"
+  }
+}

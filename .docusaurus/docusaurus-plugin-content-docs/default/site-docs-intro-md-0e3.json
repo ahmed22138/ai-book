@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Welcome to Physical AI & Humanoid Robotics",
+  "description": "Embodied Intelligence in the Real World",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/ai-textbook/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-textbook/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Week 1: Embodied AI Fundamentals",
+    "permalink": "/ai-textbook/docs/introduction/week-1-embodied-ai"
+  }
+}

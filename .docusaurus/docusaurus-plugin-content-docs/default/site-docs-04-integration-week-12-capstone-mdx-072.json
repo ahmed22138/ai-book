@@ -1,0 +1,23 @@
+{
+  "id": "integration/week-12-capstone",
+  "title": "Week 12: Capstone Project & Future Directions",
+  "description": "Course Synthesis",
+  "source": "@site/docs/04-integration/week-12-capstone.mdx",
+  "sourceDirName": "04-integration",
+  "slug": "/integration/week-12-capstone",
+  "permalink": "/ai-textbook/docs/integration/week-12-capstone",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-textbook/tree/main/docs/04-integration/week-12-capstone.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 11: System Integration & Real-World Deployment",
+    "permalink": "/ai-textbook/docs/integration/week-11-deployment"
+  }
+}

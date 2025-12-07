@@ -1,0 +1,27 @@
+{
+  "id": "control/week-7-path-planning",
+  "title": "Week 7: Path Planning",
+  "description": "The Navigation Problem",
+  "source": "@site/docs/03-control/week-7-path-planning.mdx",
+  "sourceDirName": "03-control",
+  "slug": "/control/week-7-path-planning",
+  "permalink": "/ai-textbook/docs/control/week-7-path-planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-textbook/tree/main/docs/03-control/week-7-path-planning.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 6: SLAM & Localization",
+    "permalink": "/ai-textbook/docs/perception/week-6-slam"
+  },
+  "next": {
+    "title": "Week 8: Trajectory Planning & Collision Avoidance",
+    "permalink": "/ai-textbook/docs/control/week-8-trajectory-planning"
+  }
+}

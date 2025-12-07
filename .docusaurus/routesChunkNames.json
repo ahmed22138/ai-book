@@ -1,0 +1,117 @@
+{
+  "/ai-textbook/__docusaurus/debug-24c": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---ai-textbook-docusaurus-debugb-38-ec7"
+    }
+  },
+  "/ai-textbook/__docusaurus/debug/config-aa8": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---ai-textbook-docusaurus-debugb-38-ec7"
+    }
+  },
+  "/ai-textbook/__docusaurus/debug/content-622": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---ai-textbook-docusaurus-debugb-38-ec7"
+    },
+    "__props": "__props---ai-textbook-docusaurus-debug-content-2-cf-f9f"
+  },
+  "/ai-textbook/__docusaurus/debug/globalData-666": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---ai-textbook-docusaurus-debugb-38-ec7"
+    }
+  },
+  "/ai-textbook/__docusaurus/debug/metadata-f1b": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---ai-textbook-docusaurus-debugb-38-ec7"
+    }
+  },
+  "/ai-textbook/__docusaurus/debug/registry-464": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---ai-textbook-docusaurus-debugb-38-ec7"
+    }
+  },
+  "/ai-textbook/__docusaurus/debug/routes-d30": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---ai-textbook-docusaurus-debugb-38-ec7"
+    }
+  },
+  "/ai-textbook/docs-132": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---ai-textbook-docsaba-1e7"
+    }
+  },
+  "/ai-textbook/docs-9d3": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---ai-textbook-docsd-63-a54"
+  },
+  "/ai-textbook/docs-ff0": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/ai-textbook/docs/control/week-7-path-planning-da1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-docs-control-week-7-path-planningcb-4-8ef"
+  },
+  "/ai-textbook/docs/control/week-8-trajectory-planning-4d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-docs-control-week-8-trajectory-planningf-3-a-aa1"
+  },
+  "/ai-textbook/docs/control/week-9-mobile-navigation-4c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-docs-control-week-9-mobile-navigationd-6-e-b9b"
+  },
+  "/ai-textbook/docs/integration/week-10-learning-706": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-docs-integration-week-10-learning-793-3bb"
+  },
+  "/ai-textbook/docs/integration/week-11-deployment-213": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-docs-integration-week-11-deployment-262-472"
+  },
+  "/ai-textbook/docs/integration/week-12-capstone-58b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-docs-integration-week-12-capstone-072-5ea"
+  },
+  "/ai-textbook/docs/intro-41a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-docs-intro-0-e-3-b07"
+  },
+  "/ai-textbook/docs/introduction/week-1-embodied-ai-10b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-docs-introduction-week-1-embodied-ai-707-ce1"
+  },
+  "/ai-textbook/docs/introduction/week-2-robot-anatomy-108": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-docs-introduction-week-2-robot-anatomyd-10-f1e"
+  },
+  "/ai-textbook/docs/introduction/week-3-control-systems-93c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-docs-introduction-week-3-control-systems-8-b-7-5c6"
+  },
+  "/ai-textbook/docs/perception/week-4-computer-vision-9de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-docs-perception-week-4-computer-vision-8-d-6-010"
+  },
+  "/ai-textbook/docs/perception/week-5-3d-perception-3c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-docs-perception-week-5-3-d-perceptionb-7-d-643"
+  },
+  "/ai-textbook/docs/perception/week-6-slam-22c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-docs-perception-week-6-slam-104-e63"
+  },
+  "/ai-textbook/-d09": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---ai-textbook-a-74-700"
+    },
+    "config": "config---ai-textbook-5-e-9-fc0"
+  }
+}

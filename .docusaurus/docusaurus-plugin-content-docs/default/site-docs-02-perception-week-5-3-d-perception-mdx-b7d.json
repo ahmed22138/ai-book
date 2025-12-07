@@ -1,0 +1,27 @@
+{
+  "id": "perception/week-5-3d-perception",
+  "title": "Week 5: 3D Perception & Point Clouds",
+  "description": "From 2D Images to 3D Understanding",
+  "source": "@site/docs/02-perception/week-5-3d-perception.mdx",
+  "sourceDirName": "02-perception",
+  "slug": "/perception/week-5-3d-perception",
+  "permalink": "/ai-textbook/docs/perception/week-5-3d-perception",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-textbook/tree/main/docs/02-perception/week-5-3d-perception.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 4: Computer Vision Fundamentals",
+    "permalink": "/ai-textbook/docs/perception/week-4-computer-vision"
+  },
+  "next": {
+    "title": "Week 6: SLAM & Localization",
+    "permalink": "/ai-textbook/docs/perception/week-6-slam"
+  }
+}

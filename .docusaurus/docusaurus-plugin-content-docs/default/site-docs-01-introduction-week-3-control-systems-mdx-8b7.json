@@ -1,0 +1,27 @@
+{
+  "id": "introduction/week-3-control-systems",
+  "title": "Week 3: Control Systems Basics",
+  "description": "Introduction to Robot Control",
+  "source": "@site/docs/01-introduction/week-3-control-systems.mdx",
+  "sourceDirName": "01-introduction",
+  "slug": "/introduction/week-3-control-systems",
+  "permalink": "/ai-textbook/docs/introduction/week-3-control-systems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-textbook/tree/main/docs/01-introduction/week-3-control-systems.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 2: Robot Anatomy & Sensors",
+    "permalink": "/ai-textbook/docs/introduction/week-2-robot-anatomy"
+  },
+  "next": {
+    "title": "Week 4: Computer Vision Fundamentals",
+    "permalink": "/ai-textbook/docs/perception/week-4-computer-vision"
+  }
+}
